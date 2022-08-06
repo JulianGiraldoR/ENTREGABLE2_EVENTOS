@@ -28,8 +28,8 @@ var image = document.getElementById('imgIronman')
 image.addEventListener("drag",dragged)
 
 function dragged(){
-    alert('EYY TU!!! ADONDE CREES QUE ME LLEVAS SOY IRONMAN, GENIO, MILLONARIO, FILONTROPO  PLAYBOY Y ACABAS DE BLOQUEAR EL NAVEGADOR')
-    };
+    alert('EYY TU!!! ADONDE CREES QUE ME LLEVAS SOY IRONMAN, GENIO, MILLONARIO, FILANTROPO, PLAYBOY Y ACABAS DE BLOQUEAR EL NAVEGADOR')
+    }; 
 
 //evento mouseout sobre la imagen de wolverine
 var image = document.getElementById('imgWolverine')
